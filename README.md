@@ -70,3 +70,5 @@ with their personal API key.
 ## Conclusion
 
 This project was a great introduction to API integration and helped me understand how real-time data can be accessed and displayed using Python.
+=======
+# synent-task6-Weather-App-api-integration--harshavardhanchowdarykaranam
